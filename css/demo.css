@@ -40,8 +40,18 @@ a:hover {
 }
 
 .container > header h1 {
+<<<<<<< Updated upstream
 	font-size: 5em;
 	line-height: 3;
+=======
+<<<<<<< HEAD
+	font-size: 2.525em;
+	line-height: 1.3;
+=======
+	font-size: 6em;
+	
+>>>>>>> master
+>>>>>>> Stashed changes
 	margin: 0 0 0.6em 0;
 	float: center;
 	font-weight: 400;
